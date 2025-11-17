@@ -7,7 +7,7 @@ import { Disc, X, Circle } from 'react-feather'
 
 // ** Config
 import themeConfig from '@configs/themeConfig'
-import Logo from '../../../../../assets/images/logo/favicon.png'
+import Logo from '../../../../../assets/images/logo/ekasi-cart-logo.png'
 
 const VerticalMenuHeader = props => {
   // ** Props

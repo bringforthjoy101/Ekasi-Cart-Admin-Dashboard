@@ -102,7 +102,7 @@ const PreviewActions = ({ id, data, onDispatch, onTrack }) => {
 		const doc = new jsPDF()
 		doc.setFontSize(24)
 		doc.setTextColor('blue')
-		doc.text('Cellar Hut Sales.', 14, 20)
+		doc.text('Ekasi Cart Sales.', 14, 20)
 
 		// Add title
 		doc.setFontSize(12)

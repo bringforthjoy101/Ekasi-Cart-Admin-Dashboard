@@ -149,7 +149,7 @@ const Print = () => {
 			<div className="receipt-container">
 				{/* Business Header */}
 				<div className="business-header text-center mb-3">
-					<h1 className="business-name">CELLAR HUT</h1>
+					<h1 className="business-name">EKASI CART</h1>
 					<p className="business-address">500m Opposite Ilere Junction, Along Ijare Road</p>
 					<p className="business-address">Akure South, Ondo State, South Africa</p>
 					<p className="business-contact">Phone: +234-XXX-XXX-XXXX | Email: info@Cellarhut.com</p>

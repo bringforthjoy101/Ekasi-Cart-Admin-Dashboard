@@ -3,7 +3,7 @@
 //Template config options
 const themeConfig = {
 	app: {
-		appName: 'Cellar Hut',
+		appName: 'Ekasi Cart',
 		appLogoImage: require('@src/assets/images/logo/favicon.png').default,
 	},
 	layout: {
